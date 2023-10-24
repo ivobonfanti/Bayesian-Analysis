@@ -1,4 +1,4 @@
-# Bayesian-Analysis
+# Bayesian-analysis
 
 This project aims at modelling financial contagion between the
 main European banks via Bayesian analysis. The financial risk is
